@@ -18,6 +18,7 @@ _cgo_gotypes.go
 _cgo_export.*
 
 _testmain.go
+gopath/**/*
 
 *.exe
 *.test
@@ -25,9 +26,7 @@ _testmain.go
 
 *.sw[pon]
 
-go-machine-service
-
-generator/generated/*
+rancher-compose-executor
 
 build
 dist

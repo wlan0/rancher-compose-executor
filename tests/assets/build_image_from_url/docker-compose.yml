@@ -1,0 +1,3 @@
+customservice:
+    ports:
+        -  "500:500"
