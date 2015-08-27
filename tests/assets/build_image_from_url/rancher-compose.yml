@@ -1,0 +1,3 @@
+customservice:
+    build: git@github.com:random/non-existent-service.git
+    scale: 2
