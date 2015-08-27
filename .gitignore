@@ -25,9 +25,7 @@ _testmain.go
 
 *.sw[pon]
 
-go-machine-service
-
-generator/generated/*
+rancher-compose-executor
 
 build
 dist
